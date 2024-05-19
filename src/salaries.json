@@ -1,0 +1,75 @@
+{
+  "salaries": [
+    {
+      "year": 2020,
+      "total_jobs": 75,
+      "average_salary": 102250,
+      "job_titles": {
+        "Data Scientist": 21,
+        "Data Engineer": 13,
+        "Data Analyst": 6,
+        "Machine Learning Engineer": 4
+       
+  
+    }},
+
+    {
+      "year": 2021,
+      "total_jobs": 218,
+      "average_salary": 99922,
+      "job_titles": {
+        "Data Scientist": 40,
+        "Data Engineer": 37,
+        "Data Analyst": 20,
+        "Machine Learning Engineer": 18
+       
+        
+      }
+    },
+
+    {
+      "year": 2022,
+      "total_jobs": 1655,
+      "average_salary": 134349,
+      "job_titles": {
+        "Data Engineer": 488,
+        "Data Scientist": 404,
+        "Data Analyst": 272,
+        "Machine Learning Engineer": 108
+        
+      }
+    },
+
+    {
+      "year": 2023,
+      "total_jobs": 8519,
+      "average_salary": 153732,
+      "job_titles": {
+        "Data Engineer": 1852,
+        "Data Scientist": 1711,
+        "Data Analyst": 1266,
+        "Machine Learning Engineer": 966
+       
+      
+        
+       
+        
+        
+       
+      }
+    },
+
+    {
+      "year": 2024,
+      "total_jobs": 6027,
+      "average_salary": 150643,
+      "job_titles": {
+        "Data Scientist": 1136,
+        "Data Engineer": 1066,
+        "Data Analyst": 864,
+        "Machine Learning Engineer": 607
+        
+      }
+    }
+  ]
+}
